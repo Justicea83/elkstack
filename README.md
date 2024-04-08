@@ -16,6 +16,12 @@ Download the cars.csv file and move it to  > `/logstash_lab10/cars.csv`
 
 Make sure the name of the file is `cars.csv`
 
+For the final project, write your config file and name it `logstash-finalproject.conf`
+
+Move it to `/logstash/logstash-finalproject.conf`
+
+I wrote the geopoint file for you so you're all good
+
 
 1. Download docker and make sure it's running
 2. Ensure you have docker compose as well
